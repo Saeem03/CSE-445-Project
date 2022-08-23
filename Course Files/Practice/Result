@@ -4,7 +4,7 @@ edge [fontname="helvetica"] ;
 0 [label=<Curricular units 2nd sem (approved) &le; 3.5<br/>gini = 0.615<br/>samples = 3539<br/>value = [1147, 627, 1765]<br/>class = Dropout>, fillcolor="#deccf8"] ;
 1 [label=<Curricular units 2nd sem (approved) &le; 1.5<br/>gini = 0.439<br/>samples = 1183<br/>value = [847, 242, 94]<br/>class = Dropout>, fillcolor="#eeae80"] ;
 0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
-2 [label=<Curricular units 2nd sem (enrolled) &le; 0.5<br/>gini = 0.299<br/>samples = 788<br/>value = [653, 72, 63]<br/>class = Dropout>, fillcolor="#ea995e"] ;
+2 [label=<Curricular units 1st sem (enrolled) &le; 0.5<br/>gini = 0.299<br/>samples = 788<br/>value = [653, 72, 63]<br/>class = Dropout>, fillcolor="#ea995e"] ;
 1 -> 2 ;
 3 [label=<gini = 0.607<br/>samples = 141<br/>value = [59, 19, 63]<br/>class = Dropout>, fillcolor="#f9f5fe"] ;
 2 -> 3 ;
