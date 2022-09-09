@@ -1,4 +1,4 @@
-# CSE-445-Project
+# Student’s Dropout and Academic Success Predictor
 Many educational institutions put a high value
 on monitoring and supporting university freshmen. The high
 proportion of students who do not receive their free education
