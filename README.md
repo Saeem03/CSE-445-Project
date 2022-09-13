@@ -10,9 +10,9 @@ propose a methodology and a specific classification algorithm
 to find a better way to trace the success and dropout of the
 students, which would help universities to take the necessary
 steps for their respective students. We have used decision tree,
-logistic regression, naive bayesian, and KNN algorithms and
+logistic regression, naive Bayesian, and KNN algorithms and
 compared them to get better prediction results from them. The
-dataset we used is information on undergrad degree students of
+data set we used is information on undergrad degree students of
 Polytechnic Institute of Portalegre, Portugal and the result we
 found from the model was able to predict the students’ future
 situation of their degree. This will help the education institution
